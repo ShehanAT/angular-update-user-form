@@ -1,6 +1,7 @@
 # UpdateUserProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+# Overview
+This is a simple Update User form built using Angular.js
 
 ## Development server
 
