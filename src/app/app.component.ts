@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { UpdateUserFormComponent } from './update-user-form/update-user-form.component';
 
 @Component({
   selector: 'app-root',
